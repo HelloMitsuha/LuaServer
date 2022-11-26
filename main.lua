@@ -6,7 +6,7 @@ import "android.view.*"
 require "stringpro"
 require "cjson"
 
-activity.setTheme(R.deep)
+--activity.setTheme(R.deep)
 
 local _ENV_print=print
 
