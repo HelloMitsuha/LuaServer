@@ -1,3 +1,4 @@
+--string辅助类
 function string.gsub2(...)
   return ({string.gsub(...)})[1]
 end
