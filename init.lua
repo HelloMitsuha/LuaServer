@@ -1,0 +1,24 @@
+--名称
+appname="LuaServer+"
+--版本号
+appver="2.0"
+--版本
+appcode="20"
+--SDK
+appsdk="15"
+--包名
+packagename="mitsuha.lua.server.pro"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "FOREGROUND_SERVICE",
+  "INTERNET",
+  "POPUP_BACKGROUND_WINDOW",
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}
